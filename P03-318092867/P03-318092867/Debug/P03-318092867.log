@@ -1,0 +1,22 @@
+﻿  P03-318092867.cpp
+C:\Users\HP\Desktop\Facultad de Ingenieria\Octavo Semestre\Lab. CGIH_g1\CGIH1\P03-318092867\P03-318092867\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "P03-318092867.cpp")
+  
+C:\Users\HP\Desktop\Facultad de Ingenieria\Octavo Semestre\Lab. CGIH_g1\CGIH1\P03-318092867\P03-318092867\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "P03-318092867.cpp")
+  
+C:\Users\HP\Desktop\Facultad de Ingenieria\Octavo Semestre\Lab. CGIH_g1\CGIH1\P03-318092867\P03-318092867\P03-318092867.cpp(27,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\HP\Desktop\Facultad de Ingenieria\Octavo Semestre\Lab. CGIH_g1\CGIH1\P03-318092867\P03-318092867\P03-318092867.cpp(194,16): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\HP\Desktop\Facultad de Ingenieria\Octavo Semestre\Lab. CGIH_g1\CGIH1\P03-318092867\P03-318092867\P03-318092867.cpp(236,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\HP\Desktop\Facultad de Ingenieria\Octavo Semestre\Lab. CGIH_g1\CGIH1\P03-318092867\P03-318092867\P03-318092867.cpp(236,32): warning C4244:         with
+C:\Users\HP\Desktop\Facultad de Ingenieria\Octavo Semestre\Lab. CGIH_g1\CGIH1\P03-318092867\P03-318092867\P03-318092867.cpp(236,32): warning C4244:         [
+C:\Users\HP\Desktop\Facultad de Ingenieria\Octavo Semestre\Lab. CGIH_g1\CGIH1\P03-318092867\P03-318092867\P03-318092867.cpp(236,32): warning C4244:             _Ty=GLfloat
+C:\Users\HP\Desktop\Facultad de Ingenieria\Octavo Semestre\Lab. CGIH_g1\CGIH1\P03-318092867\P03-318092867\P03-318092867.cpp(236,32): warning C4244:         ]
+C:\Users\HP\Desktop\Facultad de Ingenieria\Octavo Semestre\Lab. CGIH_g1\CGIH1\P03-318092867\P03-318092867\P03-318092867.cpp(238,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\HP\Desktop\Facultad de Ingenieria\Octavo Semestre\Lab. CGIH_g1\CGIH1\P03-318092867\P03-318092867\P03-318092867.cpp(238,32): warning C4244:         with
+C:\Users\HP\Desktop\Facultad de Ingenieria\Octavo Semestre\Lab. CGIH_g1\CGIH1\P03-318092867\P03-318092867\P03-318092867.cpp(238,32): warning C4244:         [
+C:\Users\HP\Desktop\Facultad de Ingenieria\Octavo Semestre\Lab. CGIH_g1\CGIH1\P03-318092867\P03-318092867\P03-318092867.cpp(238,32): warning C4244:             _Ty=GLfloat
+C:\Users\HP\Desktop\Facultad de Ingenieria\Octavo Semestre\Lab. CGIH_g1\CGIH1\P03-318092867\P03-318092867\P03-318092867.cpp(238,32): warning C4244:         ]
+C:\Users\HP\Desktop\Facultad de Ingenieria\Octavo Semestre\Lab. CGIH_g1\CGIH1\P03-318092867\P03-318092867\P03-318092867.cpp(332,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\HP\Desktop\Facultad de Ingenieria\Octavo Semestre\Lab. CGIH_g1\CGIH1\P03-318092867\P03-318092867\P03-318092867.cpp(334,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  P03-318092867.vcxproj -> C:\Users\HP\Desktop\Facultad de Ingenieria\Octavo Semestre\Lab. CGIH_g1\CGIH1\P03-318092867\Debug\P03-318092867.exe
