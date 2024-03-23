@@ -1,0 +1,115 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 17.03.2024 23:50:51
+
+newmtl 12353_Automobile_V1_L2_Tire
+	Kd 0.0863 0.0863 0.0863
+	Ks 0.3870 0.3870 0.3870
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.9000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl 12353_Automobile_V1_L2_black_plast
+	Kd 0.1333 0.1333 0.1333
+	Ks 0.3240 0.3240 0.3240
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.9000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl 12353_Automobile_V1_L2_Back_light
+	Kd 0.5529 0.0000 0.0000
+	Ks 0.8280 0.8280 0.8280
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.4600
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl 12353_Automobile_V1_L2_Chrom
+	Kd 0.3412 0.3412 0.3412
+	Ks 0.5400 0.5400 0.5400
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.2000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl 12353_Automobile_V1_L2_Front_glass
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.8280 0.8280 0.8280
+	Tr 0.6500
+	d 0.3500
+	Tf 0.3500 0.3500 0.3500
+	Pr 0.4500
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl 12353_Automobile_V1_L2_default
+	Kd 0.6510 0.6510 0.6510
+	Ks 0.5400 0.5400 0.5400
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.2000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl 12353_Automobile_V1_L2_Brake_disk
+	Kd 0.6902 0.6902 0.6902
+	Ks 0.5400 0.5400 0.5400
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.2500
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl 12353_Automobile_V1_L2_Material__21
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.8100 0.8100 0.8100
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.4500
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd C:\Users\HP\Desktop\Facultad de Ingenieria\Octavo Semestre\Lab. CGIH_g1\CGIH1\Modelos3D_Lab.CGIH\Automobile_v1\Body_diff.jpg
