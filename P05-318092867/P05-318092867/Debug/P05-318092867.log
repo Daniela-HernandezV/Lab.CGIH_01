@@ -1,0 +1,11 @@
+﻿  P05-318092867.cpp
+C:\Users\HP\Desktop\Facultad de Ingenieria\Octavo Semestre\Lab. CGIH_g1\CGIH1\P05-318092867\P05-318092867\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "P05-318092867.cpp")
+  
+C:\Users\HP\Desktop\Facultad de Ingenieria\Octavo Semestre\Lab. CGIH_g1\CGIH1\P05-318092867\P05-318092867\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "P05-318092867.cpp")
+  
+C:\Users\HP\Desktop\Facultad de Ingenieria\Octavo Semestre\Lab. CGIH_g1\CGIH1\P05-318092867\P05-318092867\P05-318092867.cpp(193,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\HP\Desktop\Facultad de Ingenieria\Octavo Semestre\Lab. CGIH_g1\CGIH1\P05-318092867\P05-318092867\P05-318092867.cpp(195,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  P05-318092867.vcxproj -> C:\Users\HP\Desktop\Facultad de Ingenieria\Octavo Semestre\Lab. CGIH_g1\CGIH1\P05-318092867\Debug\P05-318092867.exe
